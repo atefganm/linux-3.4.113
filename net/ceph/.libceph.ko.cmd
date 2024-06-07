@@ -1,0 +1,1 @@
+cmd_net/ceph/libceph.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o net/ceph/libceph.ko net/ceph/libceph.o net/ceph/libceph.mod.o

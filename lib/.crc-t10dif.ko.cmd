@@ -1,0 +1,1 @@
+cmd_lib/crc-t10dif.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o lib/crc-t10dif.ko lib/crc-t10dif.o lib/crc-t10dif.mod.o

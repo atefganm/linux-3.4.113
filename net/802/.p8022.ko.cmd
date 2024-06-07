@@ -1,0 +1,1 @@
+cmd_net/802/p8022.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o net/802/p8022.ko net/802/p8022.o net/802/p8022.mod.o

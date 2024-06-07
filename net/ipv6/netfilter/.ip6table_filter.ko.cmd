@@ -1,0 +1,1 @@
+cmd_net/ipv6/netfilter/ip6table_filter.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o net/ipv6/netfilter/ip6table_filter.ko net/ipv6/netfilter/ip6table_filter.o net/ipv6/netfilter/ip6table_filter.mod.o

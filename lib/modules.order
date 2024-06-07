@@ -1,0 +1,5 @@
+kernel/lib/crc-ccitt.ko
+kernel/lib/crc-t10dif.ko
+kernel/lib/crc7.ko
+kernel/lib/libcrc32c.ko
+kernel/lib/crc8.ko
