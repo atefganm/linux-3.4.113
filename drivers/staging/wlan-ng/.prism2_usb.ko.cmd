@@ -1,0 +1,1 @@
+cmd_drivers/staging/wlan-ng/prism2_usb.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/staging/wlan-ng/prism2_usb.ko drivers/staging/wlan-ng/prism2_usb.o drivers/staging/wlan-ng/prism2_usb.mod.o

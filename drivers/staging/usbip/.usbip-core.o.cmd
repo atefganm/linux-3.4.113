@@ -1,0 +1,1 @@
+cmd_drivers/staging/usbip/usbip-core.o := mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/staging/usbip/usbip-core.o drivers/staging/usbip/usbip_common.o drivers/staging/usbip/usbip_event.o 

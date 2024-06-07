@@ -1,0 +1,1 @@
+cmd_drivers/media/video/em28xx/em28xx-alsa.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/media/video/em28xx/em28xx-alsa.ko drivers/media/video/em28xx/em28xx-alsa.o drivers/media/video/em28xx/em28xx-alsa.mod.o

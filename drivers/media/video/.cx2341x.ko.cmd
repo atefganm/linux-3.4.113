@@ -1,0 +1,1 @@
+cmd_drivers/media/video/cx2341x.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/media/video/cx2341x.ko drivers/media/video/cx2341x.o drivers/media/video/cx2341x.mod.o

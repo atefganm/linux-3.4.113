@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-avermedia-a16d.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/media/rc/keymaps/rc-avermedia-a16d.ko drivers/media/rc/keymaps/rc-avermedia-a16d.o drivers/media/rc/keymaps/rc-avermedia-a16d.mod.o

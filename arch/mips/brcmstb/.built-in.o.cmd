@@ -1,0 +1,1 @@
+cmd_arch/mips/brcmstb/built-in.o :=  mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o arch/mips/brcmstb/built-in.o arch/mips/brcmstb/prom.o arch/mips/brcmstb/bmips.o arch/mips/brcmstb/memory.o arch/mips/brcmstb/irq.o arch/mips/brcmstb/time.o arch/mips/brcmstb/standby.o arch/mips/brcmstb/s3_standby.o arch/mips/brcmstb/bmips_5xxx_init.o 

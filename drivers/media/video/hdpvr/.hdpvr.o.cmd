@@ -1,0 +1,1 @@
+cmd_drivers/media/video/hdpvr/hdpvr.o := mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/media/video/hdpvr/hdpvr.o drivers/media/video/hdpvr/hdpvr-control.o drivers/media/video/hdpvr/hdpvr-core.o drivers/media/video/hdpvr/hdpvr-video.o drivers/media/video/hdpvr/hdpvr-i2c.o 

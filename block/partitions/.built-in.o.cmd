@@ -1,0 +1,1 @@
+cmd_block/partitions/built-in.o :=  mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o block/partitions/built-in.o block/partitions/check.o block/partitions/mac.o block/partitions/ldm.o block/partitions/msdos.o block/partitions/efi.o 

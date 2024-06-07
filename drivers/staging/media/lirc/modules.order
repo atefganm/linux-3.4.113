@@ -1,0 +1,5 @@
+kernel/drivers/staging/media/lirc/lirc_igorplugusb.ko
+kernel/drivers/staging/media/lirc/lirc_imon.ko
+kernel/drivers/staging/media/lirc/lirc_sasem.ko
+kernel/drivers/staging/media/lirc/lirc_serial.ko
+kernel/drivers/staging/media/lirc/lirc_ttusbir.ko

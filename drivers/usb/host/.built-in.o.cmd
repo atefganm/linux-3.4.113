@@ -1,0 +1,1 @@
+cmd_drivers/usb/host/built-in.o :=  mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/usb/host/built-in.o drivers/usb/host/pci-quirks.o drivers/usb/host/usb-brcm.o drivers/usb/host/ehci-brcm.o drivers/usb/host/ohci-brcm.o drivers/usb/host/xhci-hcd.o 

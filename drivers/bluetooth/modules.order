@@ -1,0 +1,4 @@
+kernel/drivers/bluetooth/bcm203x.ko
+kernel/drivers/bluetooth/bpa10x.ko
+kernel/drivers/bluetooth/bfusb.ko
+kernel/drivers/bluetooth/ath3k.ko

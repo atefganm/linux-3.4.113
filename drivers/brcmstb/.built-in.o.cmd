@@ -1,0 +1,1 @@
+cmd_drivers/brcmstb/built-in.o :=  mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/brcmstb/built-in.o drivers/brcmstb/bchip.o drivers/brcmstb/bmem.o drivers/brcmstb/board.o drivers/brcmstb/setup.o drivers/brcmstb/sysfs.o drivers/brcmstb/power.o drivers/brcmstb/memc1.o drivers/brcmstb/m2m.o drivers/brcmstb/s3.o drivers/brcmstb/pci.o 

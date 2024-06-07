@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-ati-tv-wonder-hd-600.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/media/rc/keymaps/rc-ati-tv-wonder-hd-600.ko drivers/media/rc/keymaps/rc-ati-tv-wonder-hd-600.o drivers/media/rc/keymaps/rc-ati-tv-wonder-hd-600.mod.o

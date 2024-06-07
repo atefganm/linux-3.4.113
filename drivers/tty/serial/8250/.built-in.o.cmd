@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/8250/built-in.o :=  mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/tty/serial/8250/built-in.o drivers/tty/serial/8250/8250.o drivers/tty/serial/8250/8250_pci.o drivers/tty/serial/8250/8250_early.o 

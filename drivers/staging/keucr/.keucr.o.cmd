@@ -1,0 +1,1 @@
+cmd_drivers/staging/keucr/keucr.o := mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/staging/keucr/keucr.o drivers/staging/keucr/usb.o drivers/staging/keucr/scsiglue.o drivers/staging/keucr/transport.o drivers/staging/keucr/init.o drivers/staging/keucr/smscsi.o drivers/staging/keucr/smilmain.o drivers/staging/keucr/smilsub.o drivers/staging/keucr/smilecc.o 

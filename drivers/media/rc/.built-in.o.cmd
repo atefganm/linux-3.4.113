@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/built-in.o :=  mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/media/rc/built-in.o drivers/media/rc/keymaps/built-in.o drivers/media/rc/rc-core.o drivers/media/rc/lirc_dev.o 

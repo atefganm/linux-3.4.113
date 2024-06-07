@@ -1,0 +1,1 @@
+cmd_drivers/base/power/built-in.o :=  mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/base/power/built-in.o drivers/base/power/sysfs.o drivers/base/power/generic_ops.o drivers/base/power/common.o drivers/base/power/qos.o drivers/base/power/runtime.o 

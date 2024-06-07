@@ -1,0 +1,1 @@
+cmd_drivers/staging/line6/line6usb.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/staging/line6/line6usb.ko drivers/staging/line6/line6usb.o drivers/staging/line6/line6usb.mod.o

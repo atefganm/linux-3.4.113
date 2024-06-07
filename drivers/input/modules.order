@@ -1,0 +1,4 @@
+kernel/drivers/input/misc/ati_remote2.ko
+kernel/drivers/input/ff-memless.ko
+kernel/drivers/input/input-polldev.ko
+kernel/drivers/input/sparse-keymap.ko

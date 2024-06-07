@@ -1,0 +1,1 @@
+cmd_drivers/staging/usbip/vhci-hcd.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/staging/usbip/vhci-hcd.ko drivers/staging/usbip/vhci-hcd.o drivers/staging/usbip/vhci-hcd.mod.o

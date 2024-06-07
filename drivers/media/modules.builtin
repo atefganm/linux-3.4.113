@@ -1,0 +1,4 @@
+kernel/drivers/media/dvb/dvb-core/dvb-core.ko
+kernel/drivers/media/dvb/frontends/stv0299.ko
+kernel/drivers/media/rc/rc-core.ko
+kernel/drivers/media/rc/lirc_dev.ko

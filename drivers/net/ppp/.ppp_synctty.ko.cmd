@@ -1,0 +1,1 @@
+cmd_drivers/net/ppp/ppp_synctty.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/net/ppp/ppp_synctty.ko drivers/net/ppp/ppp_synctty.o drivers/net/ppp/ppp_synctty.mod.o

@@ -1,0 +1,2 @@
+kernel/drivers/media/rc/rc-core.ko
+kernel/drivers/media/rc/lirc_dev.ko

@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rtlwifi/rtl8192cu/rtl8192cu.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/net/wireless/rtlwifi/rtl8192cu/rtl8192cu.ko drivers/net/wireless/rtlwifi/rtl8192cu/rtl8192cu.o drivers/net/wireless/rtlwifi/rtl8192cu/rtl8192cu.mod.o

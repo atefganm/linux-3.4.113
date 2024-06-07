@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/broadcom/genet/brcmgenet.o := mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/net/ethernet/broadcom/genet/brcmgenet.o drivers/net/ethernet/broadcom/genet/bcmgenet.o drivers/net/ethernet/broadcom/genet/bcmmii.o drivers/net/ethernet/broadcom/genet/ethsw.o 

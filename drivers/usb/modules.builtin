@@ -1,0 +1,8 @@
+kernel/drivers/usb/usb-common.ko
+kernel/drivers/usb/core/usbcore.ko
+kernel/drivers/usb/host/usb-brcm.ko
+kernel/drivers/usb/host/ehci-brcm.ko
+kernel/drivers/usb/host/ohci-brcm.ko
+kernel/drivers/usb/host/xhci-hcd.ko
+kernel/drivers/usb/serial/usbserial.ko
+kernel/drivers/usb/storage/usb-storage.ko

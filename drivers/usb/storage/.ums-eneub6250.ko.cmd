@@ -1,0 +1,1 @@
+cmd_drivers/usb/storage/ums-eneub6250.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/usb/storage/ums-eneub6250.ko drivers/usb/storage/ums-eneub6250.o drivers/usb/storage/ums-eneub6250.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/ir-sanyo-decoder.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/media/rc/ir-sanyo-decoder.ko drivers/media/rc/ir-sanyo-decoder.o drivers/media/rc/ir-sanyo-decoder.mod.o

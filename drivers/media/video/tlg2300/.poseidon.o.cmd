@@ -1,0 +1,1 @@
+cmd_drivers/media/video/tlg2300/poseidon.o := mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/media/video/tlg2300/poseidon.o drivers/media/video/tlg2300/pd-video.o drivers/media/video/tlg2300/pd-alsa.o drivers/media/video/tlg2300/pd-dvb.o drivers/media/video/tlg2300/pd-radio.o drivers/media/video/tlg2300/pd-main.o 

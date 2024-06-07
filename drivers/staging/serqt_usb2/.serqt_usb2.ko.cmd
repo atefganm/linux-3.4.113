@@ -1,0 +1,1 @@
+cmd_drivers/staging/serqt_usb2/serqt_usb2.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/staging/serqt_usb2/serqt_usb2.ko drivers/staging/serqt_usb2/serqt_usb2.o drivers/staging/serqt_usb2/serqt_usb2.mod.o

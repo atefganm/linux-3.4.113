@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/pl2303.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/usb/serial/pl2303.ko drivers/usb/serial/pl2303.o drivers/usb/serial/pl2303.mod.o

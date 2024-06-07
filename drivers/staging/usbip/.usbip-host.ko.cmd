@@ -1,0 +1,1 @@
+cmd_drivers/staging/usbip/usbip-host.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/staging/usbip/usbip-host.ko drivers/staging/usbip/usbip-host.o drivers/staging/usbip/usbip-host.mod.o

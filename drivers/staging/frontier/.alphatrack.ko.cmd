@@ -1,0 +1,1 @@
+cmd_drivers/staging/frontier/alphatrack.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/staging/frontier/alphatrack.ko drivers/staging/frontier/alphatrack.o drivers/staging/frontier/alphatrack.mod.o

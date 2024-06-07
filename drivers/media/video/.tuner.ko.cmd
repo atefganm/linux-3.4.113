@@ -1,0 +1,1 @@
+cmd_drivers/media/video/tuner.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/media/video/tuner.ko drivers/media/video/tuner.o drivers/media/video/tuner.mod.o

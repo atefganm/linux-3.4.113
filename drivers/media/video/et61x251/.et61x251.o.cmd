@@ -1,0 +1,1 @@
+cmd_drivers/media/video/et61x251/et61x251.o := mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/media/video/et61x251/et61x251.o drivers/media/video/et61x251/et61x251_core.o drivers/media/video/et61x251/et61x251_tas5130d1b.o 

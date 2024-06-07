@@ -1,0 +1,1 @@
+cmd_drivers/staging/rtl8192u/r8192u_usb.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/staging/rtl8192u/r8192u_usb.ko drivers/staging/rtl8192u/r8192u_usb.o drivers/staging/rtl8192u/r8192u_usb.mod.o

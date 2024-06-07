@@ -1,0 +1,1 @@
+cmd_drivers/net/ppp/pppox.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/net/ppp/pppox.ko drivers/net/ppp/pppox.o drivers/net/ppp/pppox.mod.o

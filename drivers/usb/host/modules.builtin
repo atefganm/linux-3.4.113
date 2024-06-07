@@ -1,0 +1,4 @@
+kernel/drivers/usb/host/usb-brcm.ko
+kernel/drivers/usb/host/ehci-brcm.ko
+kernel/drivers/usb/host/ohci-brcm.ko
+kernel/drivers/usb/host/xhci-hcd.ko

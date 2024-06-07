@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/ath/carl9170/carl9170.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/net/wireless/ath/carl9170/carl9170.ko drivers/net/wireless/ath/carl9170/carl9170.o drivers/net/wireless/ath/carl9170/carl9170.mod.o

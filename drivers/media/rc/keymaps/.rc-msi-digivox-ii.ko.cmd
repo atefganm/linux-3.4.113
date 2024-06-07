@@ -1,0 +1,1 @@
+cmd_drivers/media/rc/keymaps/rc-msi-digivox-ii.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/media/rc/keymaps/rc-msi-digivox-ii.ko drivers/media/rc/keymaps/rc-msi-digivox-ii.o drivers/media/rc/keymaps/rc-msi-digivox-ii.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/common/tuners/tda8290.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/media/common/tuners/tda8290.ko drivers/media/common/tuners/tda8290.o drivers/media/common/tuners/tda8290.mod.o

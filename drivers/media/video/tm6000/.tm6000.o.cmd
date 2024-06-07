@@ -1,0 +1,1 @@
+cmd_drivers/media/video/tm6000/tm6000.o := mipsel-unknown-linux-gnu-ld -m elf32ltsmip  -r -o drivers/media/video/tm6000/tm6000.o drivers/media/video/tm6000/tm6000-cards.o drivers/media/video/tm6000/tm6000-core.o drivers/media/video/tm6000/tm6000-i2c.o drivers/media/video/tm6000/tm6000-video.o drivers/media/video/tm6000/tm6000-stds.o drivers/media/video/tm6000/tm6000-input.o 

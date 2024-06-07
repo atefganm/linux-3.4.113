@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/rt2x00/rt2x00usb.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/net/wireless/rt2x00/rt2x00usb.ko drivers/net/wireless/rt2x00/rt2x00usb.o drivers/net/wireless/rt2x00/rt2x00usb.mod.o

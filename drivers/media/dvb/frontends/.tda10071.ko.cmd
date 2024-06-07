@@ -1,0 +1,1 @@
+cmd_drivers/media/dvb/frontends/tda10071.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o drivers/media/dvb/frontends/tda10071.ko drivers/media/dvb/frontends/tda10071.o drivers/media/dvb/frontends/tda10071.mod.o
