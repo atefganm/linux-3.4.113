@@ -1,0 +1,4 @@
+kernel/sound/core/oss/snd-mixer-oss.ko
+kernel/sound/core/oss/snd-pcm-oss.ko
+kernel/sound/core/snd-hwdep.ko
+kernel/sound/core/snd-rawmidi.ko

@@ -1,0 +1,1 @@
+cmd_sound/usb/caiaq/snd-usb-caiaq.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o sound/usb/caiaq/snd-usb-caiaq.ko sound/usb/caiaq/snd-usb-caiaq.o sound/usb/caiaq/snd-usb-caiaq.mod.o

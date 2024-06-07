@@ -1,0 +1,1 @@
+cmd_sound/usb/snd-usbmidi-lib.ko := mipsel-unknown-linux-gnu-ld -r -m elf32ltsmip -T /home/atef/buildsystem-ddt/build_tmp/linux-3.4.113/scripts/module-common.lds --build-id  -o sound/usb/snd-usbmidi-lib.ko sound/usb/snd-usbmidi-lib.o sound/usb/snd-usbmidi-lib.mod.o
